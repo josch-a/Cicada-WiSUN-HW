@@ -1,0 +1,23 @@
+- 4 layer:
+
+	- High Tg FR4
+	- UL 94 V-0 Compliant
+	- 1oz outer copper
+	- 1oz inner copper
+	- total finished thickness: 1.6mm±0.2mm
+
+- Stackup:
+
+	- Top Copper L1: Finished thickness 35um
+	- PP 0.11mm (2116), dielectric constant 4.29±
+   	- Inner Copper L2: Finished thickness 35um
+   	- Core: 1.2mm
+	- Inner Copper L3: Finished thickness 35um
+	- PP 0.11mm (2116), dielectric constant 4.29±
+   	- Bottom Layer L4: Finished thickness 35um
+	
+- Impedance controlleed lines:
+
+	- Layer: Top 
+	- Trace: 0.195mm
+	- Impedance: 50R
